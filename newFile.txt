@@ -1,4 +1,9 @@
-This is master's work....I will be there.
+this is master's work in new start:
+
+public boolean isCheckedPass(String code ,String name) {
+
+}
+
 
 This is a new file~
 modify a little bit...
