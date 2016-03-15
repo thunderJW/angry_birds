@@ -33,3 +33,7 @@ not commit for the fifth time:
 while(true) {
 
 }
+
+***************************************
+not commit for the sixth time:
+int s = 0;
