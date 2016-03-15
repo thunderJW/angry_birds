@@ -15,3 +15,9 @@ public String toString(String str) {
 
 }
 
++++++++++++++++++++++
+dev's work not commit for the second time:
+public int count(int s) {
+
+}
+
