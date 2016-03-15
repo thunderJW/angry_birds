@@ -1,4 +1,4 @@
-this file is for checkout branch testing.
+This file is for checkout branch testing and stash.
 
 public static void main(String[] args) {
 	Thread t = new Thread();
