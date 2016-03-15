@@ -37,3 +37,11 @@ while(true) {
 ***************************************
 not commit for the sixth time:
 int s = 0;
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+using stash to ....:
+for(int i=0;i<5;i++){
+	
+}
+now I can finish my job and commit.
