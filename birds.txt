@@ -4,3 +4,8 @@ public static void main(String[] args) {
 	Thread t = new Thread();
 	t.start();
 }
+
+dev's work :
+public boolean isCheckPass(String sign) {
+
+}
