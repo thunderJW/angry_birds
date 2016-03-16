@@ -7,6 +7,6 @@ public static void main(String[] agrs) {
 
 mi's modify:
 for what?
-Mike's:
-utf-8
+Mike's delete this line:
+utf-8 +++
 
