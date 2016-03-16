@@ -1,0 +1,12 @@
+Mike's work :
+public static void main(String[] agrs) {
+	int sum = 0;
+	int i = 0;
+}
+
+
+mi's modify:
+for what?
+Mike's delete this line:
+utf-8 +++
+
