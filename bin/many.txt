@@ -3,3 +3,6 @@ public static void main(String[] agrs) {
 	int sum = 0;
 	int i = 0;
 }
+
+Mike's modify:
+utf-8
